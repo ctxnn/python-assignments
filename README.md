@@ -2,7 +2,7 @@
 
 these are the python **assignments** for the subject Python Programming (**URA302**)
 
-submitted by - chirag taneja
+submitted by - Chirag Taneja(RAI)
 
 done :
 - [x] *worksheet 1*
