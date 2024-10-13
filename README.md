@@ -8,6 +8,9 @@ done :
 - [x] *worksheet 1*
 - [x] *worksheet 2*
 - [x] *worksheet 3*
+- [x] *worksheet 4*
+- [x] *worksheet 5*
+- [x] *worksheet 6*
 
 to do :
-- [ ] *worksheet 4*
+- nothing for now
