@@ -11,6 +11,7 @@ done :
 - [x] *worksheet 4*
 - [x] *worksheet 5*
 - [x] *worksheet 6*
+- [x] *worksheet 7a*
 
 to do :
 - nothing for now
